@@ -1,0 +1,6 @@
+@article{REPO181,
+    author = "Chen, Yushen and Niu, Zhikang and Ma, Ziyang and Deng, Keqi and Wang, Chunhui and Zhao, Jian and Yu, Kai and Chen, Xie",
+    journal = "arXiv preprint arXiv:2410.06885",
+    title = "{F5-tts: A fairytaler that fakes fluent and faithful speech with flow matching}",
+    year = "2024"
+}
